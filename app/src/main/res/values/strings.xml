@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examenpmdm</string>
+<string name="start">Hola</string>
+    <string name="startMensaje">Hola profesor</string>
+
+    <string name="cancel">Se cancela</string>
+</resources>
